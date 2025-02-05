@@ -3,4 +3,5 @@ description: "Ask 4 a Bot"
 body:
 - type: textarea
   attributes:
+    value: "## Welcome"
     label: "A b c"

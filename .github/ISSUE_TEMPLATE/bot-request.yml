@@ -1,0 +1,6 @@
+name: Bot Request
+description: "Ask 4 a Bot"
+body:
+- type: textarea
+  attributes:
+    label: "A b c"
